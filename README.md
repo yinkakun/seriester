@@ -8,12 +8,6 @@ A simple Progressive Web App to Track TV Shows you follow offline
 
 ## Project setup
 
-### Clone repository
-
-```sh
-git clone https://github.com/awesomeyinka/seriester.git
-```
-
 ### Install dependencies
 
 ```sh
